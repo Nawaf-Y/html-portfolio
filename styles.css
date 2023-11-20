@@ -1,0 +1,71 @@
+.button {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    margin: 5px;
+    color: black;
+  }
+
+h1{
+    text-align: center;
+    font-family: Agbalumo;
+    font-size:xxx-large;
+}
+  
+h2{
+    text-align: center;
+    font-family: Agbalumo
+}
+
+h3{
+    text-align: center;
+    font-family: Agbalumo
+}
+
+.img1{
+display: block;
+margin-right: auto;
+margin-left:auto;
+width: 85%;
+}
+
+.img2{
+display: block;
+margin-right: auto;
+margin-left: auto;
+width: 85%;
+}
+
+.img3{
+    display: block;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 5rem;
+width: 85%;
+}
+
+p{
+    text-align: center;
+    font-family: Agbalumo
+}
+
+html{
+    background-color:darkgrey;
+    padding-bottom: 15px;
+}
+
+
+.button{
+    background-color: white;
+    margin: auto; 
+}
+
+hr{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.button{
+    background-color: darkgrey;
+    font-family: Agbalumo;
+}
